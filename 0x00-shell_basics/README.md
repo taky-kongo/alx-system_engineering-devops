@@ -13,4 +13,6 @@
 
 	* with user and group IDs displayed numerically
 
-	* And hidden files (starting with .) 
+	* And hidden files (starting with .)
+
+6-firstdirectory: This script creates a directory named my_first_directory in the /tmp/ directory.
