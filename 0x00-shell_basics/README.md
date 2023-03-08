@@ -30,3 +30,9 @@
 12-file_type: This script prints the type of the file named iamfile. The file iamfile will be in the /tmp directory when we run the script.
 
 13-symbolic_link: This script creates a symbolic link to /bin/ls, namd __ls__. The symbolic link should be created in yhe current working directory.
+
+14-copy_html: This script creates a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+
+You can consider that all HTML files have the extension .html
+
+
