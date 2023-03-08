@@ -20,3 +20,5 @@
 7-movethatfile: This script moves the file bety from /tmp/ to /tmp/my_first_directory.
 
 8-firstdelete: This script delete the file betty.
+
+9-firstdirdeletion: This script deletes the directory my_first_directory that is in the /tmp directory.
