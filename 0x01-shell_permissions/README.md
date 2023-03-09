@@ -24,6 +24,8 @@
 9-John_Doe: This script sets the mode of the file hello this:
 	* -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 
+11-directories_permissions: This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+
 12-directory_permissions: This script creates a directory called my_dir with permissions 751 in the working directory.
 
 13-change_group: This script changes the group owner to school for the file hello.
