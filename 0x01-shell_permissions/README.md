@@ -20,3 +20,6 @@
 	* Group: no permission at all
 	
 	* Other users: all the permissions
+
+9-John_Doe: This script sets the mode of the file hello this:
+	* -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
