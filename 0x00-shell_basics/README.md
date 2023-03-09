@@ -54,4 +54,4 @@ You can consider that all HTML files have the extension .html
 
 	* The listing should end with a new line
 
-
+school.mgc: magic file school.mgc cans be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
