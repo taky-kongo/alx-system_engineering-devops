@@ -25,3 +25,5 @@
 	* -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 
 12-directory_permissions: This script creates a directory called my_dir with permissions 751 in the working directory.
+
+13-change_group: This script changes the group owner to school for the file hello.
