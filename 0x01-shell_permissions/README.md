@@ -6,4 +6,6 @@
 
 3-new_owner: This script changes the owner of the file hello to the user betty.
 
+4-empty: This script creates an empty file called hello.
+
 
