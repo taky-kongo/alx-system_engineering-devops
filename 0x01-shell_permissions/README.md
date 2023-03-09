@@ -23,3 +23,5 @@
 
 9-John_Doe: This script sets the mode of the file hello this:
 	* -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+
+12-directory_permissions: This script creates a directory called my_dir with permissions 751 in the working directory.
