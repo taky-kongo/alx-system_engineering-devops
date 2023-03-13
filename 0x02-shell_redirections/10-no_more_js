@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -iname "*.jsx" | rm *.jsx
+find . -type f -name "*.jsx" -delete
