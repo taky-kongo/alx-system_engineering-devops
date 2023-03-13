@@ -26,7 +26,7 @@
 
 	* Hidden directories should be counted
 
-12-newest_files: displays the 10 newest files in the current directory.
+12-newest_files: This script displays the 10 newest files in the current directory.
 
 	* One file per line
 	
@@ -39,3 +39,6 @@
 	* Output format: One line, one word
 
 	* Words should be sorted
+
+14-findthatword: This script displays lines containing the pattern “root” from the file /etc/passwd.
+
