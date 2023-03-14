@@ -46,6 +46,10 @@
 
 16-whatsnext: This script displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
+18-letteronly: This script displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+	* include capital letters as well
+
 17-hidethisword: This script displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
 19-AZ: This script replaces all characters A and c from input to Z and e respectively.
